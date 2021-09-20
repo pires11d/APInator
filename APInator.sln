@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jarbas.API", "Jarbas.API\Jarbas.API.csproj", "{ADE9A0B7-519C-4759-A760-823095BEB931}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jarbas.Domain", "Jarbas.Domain\Jarbas.Domain.csproj", "{AF948435-BA23-428A-9BA2-9722BBE799F3}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Jarbas.Database", "Jarbas.Database\Jarbas.Database.sqlproj", "{09FE2516-C050-459D-8D0D-A10F79026ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE9A0B7-519C-4759-A760-823095BEB931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE9A0B7-519C-4759-A760-823095BEB931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE9A0B7-519C-4759-A760-823095BEB931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE9A0B7-519C-4759-A760-823095BEB931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF948435-BA23-428A-9BA2-9722BBE799F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF948435-BA23-428A-9BA2-9722BBE799F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF948435-BA23-428A-9BA2-9722BBE799F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF948435-BA23-428A-9BA2-9722BBE799F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FE2516-C050-459D-8D0D-A10F79026ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FE2516-C050-459D-8D0D-A10F79026ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FE2516-C050-459D-8D0D-A10F79026ADF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09FE2516-C050-459D-8D0D-A10F79026ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FE2516-C050-459D-8D0D-A10F79026ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FE2516-C050-459D-8D0D-A10F79026ADF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1C475B-3F93-443C-8186-DD3D05772559}
+	EndGlobalSection
+EndGlobal
